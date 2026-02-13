@@ -20,7 +20,7 @@ A PyTorch-based image classification model trained to distinguish between Roblox
 
 ```powershell
 # Clone the repository
-git clone <your-repo-url>
+git clone <https://github.com/theguythatmakesstuff/py-classification-50.git>
 cd "python image ai"
 
 # Create virtual environment
